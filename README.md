@@ -6,7 +6,7 @@ Flight delays are a significant issue in the aviation industry, affecting passen
 The objective of this project is to design and implement a system that predicts flight delays using historical data and signal processing techniques. The scope of the project includes identifying key contributing factors, analyzing delay patterns, and developing a predictive model.
 
 ## Link to the project
-[ Project Notebook ](https://colab.research.google.com/drive/1uiaw334rF-5fO3wmxwKoLiFXKwzj0tGl?usp=sharing)
+[ Project Notebook ](https://colab.research.google.com/drive/1vF1X_00i-1YCNqmuh6e-_LIZipzG3OWK?usp=sharing)
 
 ## Methodology
 
